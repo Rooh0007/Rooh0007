@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Rooh0007/Rooh0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Rodolpho Galerani 👋 
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolpho-galerani-6b865a195/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tecnologias que uso!
+
+![Rodolpho GitHub stats](https://github-readme-stats.vercel.app/api?username=Rooh0007&hide=contribs,prs)
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+
+<br/>
+👋Um entusiasta da programação em início de jornada. Atualmente, estou mergulhando no universo do desenvolvimento backend com foco em Java e C#. 🚀
